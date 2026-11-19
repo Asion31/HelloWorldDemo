@@ -1,3 +1,5 @@
+package basic.day5;
+
 // Cat类：和Dog结构类似，但行为不同（猫喵叫、会抓老鼠）
 public class Cat {
     String name;

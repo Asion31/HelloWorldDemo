@@ -1,3 +1,5 @@
+package basic.day5;
+
 // 测试类：创建Dog和Cat对象，给它们赋值，调用它们的方法
 public class PetTestDrive {
     public static void main(String[] args) {

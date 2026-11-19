@@ -1,3 +1,5 @@
+package basic.day5;
+
 // Dog类：封装狗的状态（名字、品种、年龄）和行为（叫、吃东西）
 public class Dog {
     // 实例变量（状态）：每个对象各自有一份
